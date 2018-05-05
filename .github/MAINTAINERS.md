@@ -6,7 +6,7 @@ The following is an up to date list of project maintainers. These people will be
     * **GitHub:** [LuckehPickle](https://github.com/LuckehPickle)
     * **Email:** [sean@seanbailey.io](mailto:sean@seanbailey.io)
     * **Slack:** :white_check_mark: (preferred)
- * Jonothan Tabac
+ * Jonathan Tabac
     * **GitHub:** [vuvuzella](https://github.com/vuvuzella)
     * **Email:** [j.tabacii@gmail.com](mailto:j.tabacii@gmail.com)
     * **Slack:** :white_check_mark: 
