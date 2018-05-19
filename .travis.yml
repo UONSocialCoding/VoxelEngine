@@ -1,1 +1,5 @@
 language: java
+ notifications:
+  slack:
+    rooms:
+      - uonsocialcoding:8W34uBZ0oCzRnW9SCWtU4X1W#voxel-engine
